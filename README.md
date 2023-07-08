@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on IOV Labs as Software Engineer Jr<br>🌱 Currently learning about Blockchain, Web Development and AI.<br>💬 Ask me about anything, I will try my best to help<br>⚡ 2023 - Another year to keep learning yay!
+🔭 Currently working on IOV Labs as Software Engineer Jr<br>🌱 Learning about Blockchain, Web Development and AI.<br>💬 Ask me about anything, I will try my best to help<br>⚡ 2023 - Another year to keep learning yay!
 
 
 ## 🌐 Socials:
